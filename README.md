@@ -8,11 +8,12 @@
 [![Next.js](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Vercel](https://img.shields.io/badge/Live-deskguard--opal.vercel.app-black?style=for-the-badge&logo=vercel)](https://deskguard-opal.vercel.app)
 
 **🏆 WebForge — A Smart Campus Webathon | Manipal University, Jaipur**
 
-[🔗 GitHub](https://github.com/vishalreddy20/deskguard) · [🚀 Live Demo](#) · [📖 Demo Guide](#-demo-guide-for-evaluators)
+[🔗 GitHub](https://github.com/vishalreddy20/deskguard) · [🚀 Live Demo](https://deskguard-opal.vercel.app) · [📖 Demo Guide](#-demo-guide-for-evaluators)
+
 
 </div>
 
